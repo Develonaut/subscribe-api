@@ -9,6 +9,7 @@ Straight forward REST API with ES6 and Express.
 
 ## Getting Started
 
+```
 # Install dependencies
 
 npm install
@@ -21,13 +22,13 @@ PORT=8080 npm run dev
 
 PORT=8080 npm start
 
+```
+
 ## Docker Support
 
 # Build your docker
 
 docker build -t es6/api-service .
-
-# ^ ^ ^
 
 # tag tag name Dockerfile location
 
@@ -35,10 +36,12 @@ docker build -t es6/api-service .
 
 docker run -p 8080:8080 es6/api-service
 
-# ^ ^
-
 # bind the port container tag
 
 # to your host
 
 # machine port
+
+```
+
+```
