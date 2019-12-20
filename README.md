@@ -26,6 +26,7 @@ PORT=8080 npm start
 
 ## Docker Support
 
+```
 # Build your docker
 
 docker build -t es6/api-service .
