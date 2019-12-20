@@ -1,0 +1,12 @@
+{
+  "ADMIN": {
+    "topic": "ADMIN",
+    "data": {
+      "title": "Firebase Messaging - Daily Admin Message",
+      "url": "",
+      "image": "https://www.placecage.com/c/600/400",
+      "body": "Firebase Messaging - All is well",
+      "icon": "https://www.placecage.com/c/100/100"
+    }
+  }
+}
